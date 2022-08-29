@@ -1,0 +1,14 @@
+# bomb-user 12 SP1A.210812.016 22.8.24 release-keys
+- manufacturer: xiaomi
+- platform: mt6873
+- codename: bomb
+- flavor: bomb-user
+- release: 12
+- id: SP1A.210812.016
+- incremental: 22.8.24
+- tags: release-keys
+- fingerprint: Redmi/bomb/bomb:12/SP1A.210812.016/22.8.24:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: bomb-user-12-SP1A.210812.016-22.8.24-release-keys
+- repo: redmi_bomb_dump
